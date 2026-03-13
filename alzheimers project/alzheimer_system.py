@@ -14,7 +14,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 database_path = "database"
 model_name = "Facenet"
 
-print("Loading face database...")
+print("Loading face database upcoming...")
+
+
+
+
 
 known_embeddings = []
 known_names = []
